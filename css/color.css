@@ -30,7 +30,13 @@ a.nav-link {
 .text-second {
     color: #0E86D4;
 }
-
+.h2-green {
+    font-weight: bold;
+    color: white;
+    background-color: green;
+    border-radius: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
 .btn-green {
     color: #fff;
     background-color: var(--main-brand-color);
